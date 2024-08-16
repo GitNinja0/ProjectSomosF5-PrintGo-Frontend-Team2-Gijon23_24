@@ -12,7 +12,7 @@ This project combines a robust backend with a modern frontend to offer a complet
 
 ## Production links
 
-Frontend: <https://printgo.factoriaf5asturias.org/> </br>
+Frontend: <https://project-somos-f5-print-go-frontend-team2-gijon23-24.vercel.app//> </br>
 API: <https://api-printgo.factoriaf5asturias.org/>
 
 ## Main features
